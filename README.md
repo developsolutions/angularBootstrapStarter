@@ -6,10 +6,10 @@ Use the following api endpoint to create two components (Master-detail).
 1. Components should list all the content that comes from the api in a neat manner.
 2. The second components should be a detailed look at the data being passed.
 
-#API
+## API
 https://sampleapis.com/api-list/coffee 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
 
