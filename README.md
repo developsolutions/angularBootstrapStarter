@@ -7,7 +7,7 @@ Use the following api endpoint to create two components (Master-detail).
 2. The second components should be a detailed look at the data being passed.
 
 ## API
-https://sampleapis.com/api-list/coffee 
+https://sampleapis.com/api-list/coffee/hot
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
