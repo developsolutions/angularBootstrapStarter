@@ -25,4 +25,6 @@ If not use the mock data service in mock-data.service.ts to get fulfil the task.
 
 ---
 ## Note: Disable CORS
+https://alfilatov.com/posts/run-chrome-without-cors/
+
 https://stackoverflow.com/questions/57552185/how-to-disable-cors-in-chrome-mac
