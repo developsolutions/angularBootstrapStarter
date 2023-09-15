@@ -3,6 +3,9 @@
 ## Option 1
 Create a clone of https://xkcd.com/
 
+![image](https://github.com/developsolutions/angularBootstrapStarter/assets/55841936/dcb8c2cc-b66d-44e2-9882-5fbcc562b5dd)
+
+
 [https://any-api.com/xkcd_com/xkcd_com/docs/_comicId_info_0_json/GET]
 
 ## Option 2
